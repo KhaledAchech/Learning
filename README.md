@@ -50,4 +50,10 @@ A good book for those who likes automation and network.
 
 **Book:** [Python for network engineers](https://pyneng.readthedocs.io/en/latest/index.html)
 
+### NASM – The Netwide Assembler
+
+The NASM documentation to write 16-bit, 32-bit and 64-bit programs.
+
+**Book:** [NASM – The Netwide Assembler](https://www.nasm.us/xdoc/2.16.01/nasmdoc.pdf)
+
 # Happy learning!
