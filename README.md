@@ -56,4 +56,10 @@ The NASM documentation to write 16-bit, 32-bit and 64-bit programs.
 
 **Book:** [NASM – The Netwide Assembler](https://www.nasm.us/xdoc/2.16.01/nasmdoc.pdf)
 
+### Study of the techniques for emulation programming
+
+A cool short book on learning the art of emulation programming by Victor Moya del Barrio.
+
+**Book:** [Study of the techniques for emulation programming](http://www.codeslinger.co.uk/files/emu.pdf)
+
 # Happy learning!
