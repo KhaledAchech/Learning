@@ -64,7 +64,7 @@ A cool short book on learning the art of emulation programming by Victor Moya de
 
 ### By example: Continuation-passing style in JavaScript
 
-Continuation-passing style is an amazing IR style. This is a great article by Matt Might.
+Continuation-passing style is an amazing IR(intermidiate representation) style. This is a great article by Matt Might.
 
 **Article** [By example: Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style/)
 
