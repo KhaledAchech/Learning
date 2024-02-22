@@ -68,4 +68,15 @@ Continuation-passing style is an amazing IR(intermidiate representation) style. 
 
 **Article** [By example: Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style/)
 
+### GBA Emulator Dev References
+
+I started this project of creating a [GBA Emulator](https://github.com/KhaledAchech/gba-emulator)
+
+**Document** [PAN Docs](https://gbdev.io/pandocs/)
+
+**Document** [Gameboy CPU (LR35902) instruction set](https://www.pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
+
+**Book** [Gameboy Development Manual V1.1](https://archive.org/details/GameBoyProgManVer1.1/page/n85/mode/2up)
+
+
 # Happy learning!
